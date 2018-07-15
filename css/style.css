@@ -16,23 +16,19 @@
     border-radius: 5px;
 }
 
-.registration__forms {
-    margin-top: 20px;
-}
-
 .registration__links {
     color: #ea355a;
     text-decoration: none;
 }
 
 .registration__agreement {
-    margin-top: 25px;
     font-size: 14px;
 }
 .header {
     display: flex;
     flex-wrap: wrap;
     line-height: 20px;
+    margin-bottom: 20px;
 }
 
 .header__icon {
@@ -87,4 +83,5 @@
     height: 50px;
     box-shadow:  0 10px 5px -5px #bd1962;
     border-radius: 5px;
+    margin-bottom: 25px;
 }
